@@ -5,7 +5,7 @@ What are Parameters in Stored Procedures?
 Parameters allow stored procedures to accept input values, return output values, or do both. They make stored procedures dynamic, reusable, and suitable for real-world business logic.
 Instead of hardcoding values inside SQL statements, parameters help pass values at runtime.
 
-Types of Parameters Covered
+Types of Parameters Covered 
 
 *IN Parameters
 IN parameters are used to pass values into a stored procedure. These values are read-only inside the procedure and are commonly used for filtering and searching data.
